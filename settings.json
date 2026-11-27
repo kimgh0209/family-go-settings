@@ -1,1 +1,16 @@
-{"limit":5,"near":500,"chii":50,"rocket":"normal","bonusMax":2,"updatedAt":0}
+{
+ "limit": 5,
+ "near": 500,
+ "chii": 50,
+ "rocket": "normal",
+ "bonusMax": 2,
+ "rename": false,
+ "names": [
+  "아빠",
+  "엄마",
+  "한율",
+  "이현",
+  "서비"
+ ],
+ "updatedAt": 1795774765244
+}
